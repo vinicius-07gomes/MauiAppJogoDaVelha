@@ -5,7 +5,7 @@
 
     <ContentPage.Background>
         <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
-            <GradientStop Color="DarkOliveGreen" Offset="0.3" />
+            <GradientStop Color="BlueViolet" Offset="0.3" />
             <GradientStop Color="CadetBlue" Offset="1.1" />
         </LinearGradientBrush>
     </ContentPage.Background>
